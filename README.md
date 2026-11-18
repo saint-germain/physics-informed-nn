@@ -89,6 +89,6 @@ Durante la ejecución se producen:
 - Archivo `best_surrogate_model.pth` con los pesos del mejor modelo.
 - Archivo `waveguide_90GHz_resonance.mp4` con la animación del campo electromagnético.
 
-## Licencia y reproducibilidad
+## Declaración de uso de IA Generativa
 
-No se especifica una licencia de distribución en el cuaderno. Antes de reutilizar o redistribuir el código y los datos, añade al repositorio la licencia correspondiente y documenta las versiones de las dependencias, las características del equipo utilizado y las semillas aleatorias. Para reproducir los resultados, conserva también el conjunto de datos original y los parámetros de configuración de cada ejecución.
+Para el desarrollo del código se usó Gemini 3.1 Pro. Todo el material fue revisado por el autor del repositorio.
