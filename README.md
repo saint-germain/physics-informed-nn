@@ -71,7 +71,6 @@ El cuaderno comienza configurando un entorno de **Google Colab** mediante `conda
 
 5. Ejecuta el entrenamiento, la optimización inversa y las simulaciones de validación. Al finalizar, el cuaderno guarda el modelo entrenado como `best_surrogate_model.pth` y la animación como `waveguide_90GHz_resonance.mp4`.
 
-> **Nota sobre los nombres de archivo:** en la versión actual del cuaderno, algunas celdas hacen referencia a `filename` o `filename2`, y la función de preprocesamiento tiene como nombre predeterminado `w_band_filter_dataset_test.npz`, mientras que la celda de descarga obtiene `filter_dataset.npz`. Antes de ejecutar el flujo completo, unifica estas referencias. Por ejemplo, puedes definir `filename2 = "filter_dataset.npz"` después de descargar el conjunto de datos y utilizar ese mismo nombre en todas las celdas de carga.
 
 ## Alcance del enfoque
 
